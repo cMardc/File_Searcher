@@ -5,4 +5,6 @@
 <h2>Can be useful when transferring data to USB drives, external storage drive, or getting backup files before resetting and more.</h2>
 <h2>It is made in python. If you use python3, then run "runPY3.sh", but if you use python then run "runPY.sh"</h2>
 <br>
+# ! WARNING : Please Run Merdium.py If You Can. This Version Does Not Have Inputs And GUI (Made For Test And Debug)
+
 <h2>Thanks For Looking!</h2>
