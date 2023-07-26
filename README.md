@@ -8,6 +8,7 @@
 <h2> ! WARNING : Please run "Merdium.py" if you can. "main.py" does not have inputs and GUI (It is made for test and debug) </h2>
 <br>
 <br>
+<pre>git clone </pre>
 <h4>Python3 : </h4><br>
 <pre>
   chmod +x runPY3.sh<br>
