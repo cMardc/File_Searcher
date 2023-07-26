@@ -1,7 +1,3 @@
-# ! WARNING : Please Run Merdium.py If You Can. This Version Does Not Have Inputs And GUI (Made For Test And Debug)
-
-
-
 import os
 import shutil
 
