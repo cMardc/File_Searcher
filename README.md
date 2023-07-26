@@ -8,7 +8,10 @@
 <hr>
 <br>
 <h3>Run given commands In your terminal : </h3>
-<pre>git clone https://github.com/cMardc/File_Searcher.git </pre>
+<pre>
+  git clone https://github.com/cMardc/File_Searcher.git<br>
+  cd File_Searcher 
+</pre>
 <br>
 <h4>Python3 : </h4><br>
 <pre>
