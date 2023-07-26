@@ -7,6 +7,7 @@
 <h2>WARNING : Please run "Merdium.py" if you can. "main.py" does not have inputs and GUI (It is made for test and debug) </h2>
 <br>
 <br>
+<h3>Run given commands In your terminal : </h3>
 <pre>git clone https://github.com/cMardc/File_Searcher.git </pre>
 <br>
 <h4>Python3 : </h4><br>
