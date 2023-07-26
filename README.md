@@ -5,7 +5,6 @@
 <h3>It is made in python. If you use python3, then run "runPY3.sh", but if you use python then run "runPY.sh"</h3>
 <br>
 <h2>WARNING : Please run "Merdium.py" if you can. "main.py" does not have inputs and GUI (It is made for test and debug) </h2>
-<br>
 <hr>
 <br>
 <h3>Run given commands In your terminal : </h3>
