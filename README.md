@@ -21,4 +21,5 @@
   chmod +x runPY.sh
   ./runPY.sh
 </pre>
+<hr>
 <h3>Thanks for looking!</h3>
