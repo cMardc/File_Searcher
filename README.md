@@ -13,4 +13,10 @@
   chmod +x runPY3.sh<br>
   ./runPY3.sh
 </pre>
+<br>
+<h4>Python : </h4>
+<pre>
+  chmod +x runPY.sh
+  ./runPY.sh
+</pre>
 <h3>Thanks for looking!</h3>
