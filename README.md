@@ -12,6 +12,17 @@
 <hr>
 <h2>Installation</h2>
 <img src="img/installation.png" align="center" alt="Alt text" title="Logo">
+<hr>
+<h2>How it works</h2>
+<h4>It takes a list of extensions and starts to search for files with those extensions in given directory.</h4>
+
+<img src="img/help1.png" align="center" alt="Alt text" title="Logo">
+
+<h4>After that it transfers files to another directory</h4>
+
+
+<img src="img/help2.png" align="center" alt="Alt text" title="Logo">
+
 
 <hr>
 <h4>Made by ~cM</h4>
